@@ -25,3 +25,5 @@ export function manageFriends(state = {
           return state;
       }
 }
+
+//new
